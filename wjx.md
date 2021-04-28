@@ -1,3 +1,29 @@
+# element-admin
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+---
 ## 计算机专业英语 
 #### 王嘉璇21181109
 
@@ -5,7 +31,7 @@
 链接->[百度](https://www.baidu.com)
 
 ---
-另一个md->[wjx.md](./wjx.md)  
+另一个md->[README.md](./README.md)  
 
 ---
 

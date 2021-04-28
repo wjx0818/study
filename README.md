@@ -5,11 +5,11 @@
 链接->[百度](https://www.baidu.com)
 
 ---
-另一个md->[wjx.md](./wjx.md)  
+另一个md->[wjx.md](wjx.md)  
 
 ---
 
-![](./lingyuan_yousa.jpg)
+![](lingyuan_yousa.jpg)
 
 ---
 
